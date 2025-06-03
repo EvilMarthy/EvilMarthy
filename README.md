@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @EvilMarthy
+- 🧑‍💼 I work for Beenox as a Dev Support Technician and I love coding, even though I am not as good as I would like :)
