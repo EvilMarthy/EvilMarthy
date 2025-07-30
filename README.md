@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Marthy.
-- 🧑‍💼 I work for Beenox as a Dev Support Technician and I love coding, even though I am not as good as I would like :)
+- 🧑‍💼 I work for Beenox as a DevOps Technician and I love coding, even though I am not as good as I would like :)
